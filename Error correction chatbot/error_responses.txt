@@ -1,0 +1,5 @@
+#python:https://stackoverflow.com/search?q=python
+#java:https://stackoverflow.com/search?q=java
+python:https://docs.oracle.com/en/
+java:https://docs.oracle.com/en/
+
